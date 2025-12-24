@@ -4,176 +4,136 @@
 
 ---
 
-## Welcome
+## Overview
 
-This documentation site provides the complete framework toolkit used by Intelligent Agency consultants to transform organizations into AI-native enterprises. These frameworks represent a systematic, data-driven approach to enterprise transformation—from strategic assessment through operational deployment.
+This documentation provides the complete framework toolkit for transforming organizations into AI-native enterprises. These frameworks represent a systematic approach from strategic clarity through operational deployment.
 
-## The IntelligentOS Promise
+**The Problem**: Most companies fail at AI adoption because they lack foundational clarity, measurement systems, and operating models required for agentic transformation.
 
-Most companies struggle with AI adoption because they lack the foundational clarity, measurement systems, and operating models required for agentic transformation. IntelligentOS solves this by providing:
-
-- **Strategic Clarity**: Vision → Execution alignment through structured frameworks
-- **Measurement Systems**: Complete KPI architecture connecting data → workflows → outcomes
-- **Transformation Roadmap**: Maturity-based progression from reactive to AI-native operations
-- **Agentic Foundation**: 9 functional agents operating with unified intelligence
+**The Solution**: IntelligentOS provides strategic alignment, complete KPI architecture, maturity-based progression, and agentic foundation through 9 functional agents.
 
 ---
 
-## Framework Architecture
+## The Seven Frameworks
 
-The IntelligentOS methodology consists of three integrated frameworks:
+### 1. [Business Canvas - Strategy & AI Readiness](Business_Canvas_Strategy_AI_Readiness.md)
 
-### 1. [AI Readiness Assessment Framework](AI_Readiness_Assessment_Framework.md)
+Collaborative strategic mapping combining VMP, brand, culture, OKRs with AI readiness assessment across data, infrastructure, process maturity, and change capacity.
 
-Comprehensive diagnostic tool evaluating organizational readiness across 8 critical dimensions, designed to establish baseline and populate the IOS Config workbook.
-
-**Use when**: Beginning transformation, establishing baseline, identifying gaps
-
-**Produces**: Functional surveys, maturity scores, priority roadmap
+**Use when**: Initiating transformation, establishing strategic foundation, aligning AI to business objectives
 
 ---
 
-### 2. [Intelligent Agency Maturity Model](Intelligent_Agency_Maturity_Model.md)
+### 2. [Operational Canvas - Transformation & Value Stream Mapping](Operational_Canvas_Transformation_Value_Stream.md)
 
-Five-level maturity framework assessing 9 core functions from ad-hoc operations to fully autonomous AI-powered systems.
+End-to-end value stream analysis across Growth, Retention, Efficiency, and Innovation engines. Identifies bottlenecks, quantifies gaps, and prioritizes transformation opportunities.
+
+**Use when**: Translating strategy to execution, identifying operational improvements, building transformation roadmap
+
+---
+
+### 3. [Workflow Prioritization & POC Scoping](Workflow_Prioritization_POC_Scoping.md)
+
+Systematic selection and design of high-impact proof of concept initiatives using Impact × Feasibility × Alignment framework. Produces complete POC blueprints with success metrics and resource plans.
+
+**Use when**: Selecting which workflows to transform first, designing focused POCs, moving from analysis to action
+
+---
+
+### 4. [Engagement Model & SOW Templates](Engagement_Model_SOW_Templates.md)
+
+Four-phase engagement progression (POV → POC → Pilot → Program) with gated decision points and production-ready Statement of Work templates for each phase.
+
+**Use when**: Structuring client engagements, scoping phases, creating SOWs, managing progression decisions
+
+---
+
+### 5. [AI Readiness Assessment Framework](AI_Readiness_Assessment_Framework.md)
+
+Comprehensive diagnostic evaluating organizational readiness across 8 dimensions, designed to establish baseline and populate IOS Config workbook.
+
+**Use when**: Conducting detailed functional analysis, identifying gaps, creating priority roadmap
+
+---
+
+### 6. [Intelligent Agency Maturity Model](Intelligent_Agency_Maturity_Model.md)
+
+Five-level maturity framework assessing 9 core functions from ad-hoc operations to autonomous AI-powered systems.
 
 **Use when**: Charting transformation path, prioritizing investments, measuring progress
 
-**Produces**: Current state assessment, target state vision, advancement roadmap
-
 ---
 
-### 3. [IntelligentOS KPI Architecture](IntelligentOS_KPI_Architecture.md)
+### 7. [IntelligentOS KPI Architecture](IntelligentOS_KPI_Architecture.md)
 
-Unified measurement system connecting strategy → execution → operations through hierarchical KPI structures, enabling agent-driven intelligence.
+Unified measurement system connecting strategy → execution → operations through hierarchical KPI structures.
 
 **Use when**: Establishing measurement discipline, wiring agent intelligence, aligning functions
 
-**Produces**: KPI lineage maps, CEO dashboards, agent instruction sets
-
 ---
 
-## How These Frameworks Connect
+## Framework Flow
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│           AI Readiness Assessment                       │
-│  (Diagnose current state across 8 dimensions)           │
-└─────────────────┬───────────────────────────────────────┘
-                  │
-                  ▼
-┌─────────────────────────────────────────────────────────┐
-│         Intelligent Agency Maturity Model               │
-│  (Map progression from Level 1 → Level 5)               │
-└─────────────────┬───────────────────────────────────────┘
-                  │
-                  ▼
-┌─────────────────────────────────────────────────────────┐
-│           IntelligentOS KPI Architecture                │
-│  (Wire measurement system for agent operations)         │
-└─────────────────────────────────────────────────────────┘
+Business Canvas (Strategic Foundation)
+    ↓
+Operational Canvas (Value Stream Mapping)
+    ↓
+Workflow Prioritization (POC Selection & Design)
+    ↓
+Engagement Model (Phased Progression: POV → POC → Pilot → Program)
+    ↓
+AI Readiness Assessment (Diagnostic & Baseline)
+    ↓
+Maturity Model (Transformation Roadmap)
+    ↓
+KPI Architecture (Measurement & Agent Wiring)
 ```
 
-Each framework builds on the previous, creating a complete transformation system from assessment through deployment.
+Each framework builds on the previous, creating a complete system from strategy through deployment.
 
 ---
 
-## Typical Engagement Flow
+## Typical Engagement
 
-### Phase 1: Assessment (Weeks 1-2)
-Deploy the **AI Readiness Assessment** across all functions to establish baseline and identify opportunities.
+**POV Phase (Week 1)**: Business Canvas + Operational Canvas + Workflow Prioritization workshop  
+**POC Phase (Weeks 2-5)**: Build and validate 3 workflows (30 days)  
+**Pilot Phase (Weeks 6-17)**: Production deployment (60-90 days)  
+**Program Phase (Months 5-16)**: Year-one transformation (4 × 90-day cycles)  
 
-**Deliverables**: Assessment scores, gap analysis, priority matrix
-
-### Phase 2: Strategy (Weeks 3-4)
-Apply the **Maturity Model** to chart the transformation roadmap and set advancement targets.
-
-**Deliverables**: Maturity mapping, target state definition, 90-day roadmap
-
-### Phase 3: Architecture (Weeks 5-6)
-Implement the **KPI Architecture** to establish measurement discipline and wire agent intelligence.
-
-**Deliverables**: KPI lineage maps, dashboard wireframes, agent playbooks
-
-### Phase 4: Deployment (Ongoing)
-Execute 90-day transformation cycles, advancing functions through maturity levels with continuous measurement.
-
-**Deliverables**: Weekly briefs, quarterly reviews, maturity progression reports
+Each phase has explicit go/no-go decision gates.
 
 ---
 
-## Quick Start Guide
+## Quick Start
 
-**For Consultants:**
-1. Start with [AI Readiness Assessment Framework](AI_Readiness_Assessment_Framework.md) to conduct initial diagnostic
-2. Reference [Intelligent Agency Maturity Model](Intelligent_Agency_Maturity_Model.md) to identify current and target states
-3. Use [IntelligentOS KPI Architecture](IntelligentOS_KPI_Architecture.md) to establish measurement systems
-
-**For Clients:**
-1. Complete the functional surveys from the Assessment Framework
-2. Review your maturity scores against the Maturity Model
-3. Adopt the KPI structures from the KPI Architecture
+**Consultants**: Business Canvas → Operational Canvas → Assessment Framework  
+**Clients**: Complete Canvas workshops → Participate in value stream mapping  
+**Both**: Reference Maturity Model for progression, KPI Architecture for measurement
 
 ---
 
 ## Core Principles
 
-These frameworks are built on five principles:
-
-1. **Strategy Must Be Measurable**: Every strategic objective connects to quantifiable KPIs
-2. **Foundation Precedes Transformation**: Level 3 alignment required before AI augmentation
-3. **One Source of Truth**: Unified measurement eliminates conflicting narratives
-4. **Agent-Ready Architecture**: Systems designed for autonomous intelligence from day one
-5. **Continuous Evolution**: 90-day cycles enable rapid, measurable advancement
+1. **Strategy Must Be Measurable** - Every objective connects to quantifiable KPIs
+2. **Foundation Precedes Transformation** - Level 3 alignment required before AI augmentation
+3. **One Source of Truth** - Unified measurement eliminates conflicting narratives
+4. **Agent-Ready Architecture** - Systems designed for autonomous intelligence
+5. **Continuous Evolution** - 90-day cycles enable rapid advancement
 
 ---
 
-## The 9 Functions
+## Navigation
 
-All frameworks evaluate and optimize these core functions:
-
-| Function | Primary KPIs | Maturity Target |
-|----------|--------------|-----------------|
-| **CEO / Strategy** | Revenue Growth, EBITDA, NRR | Level 5: Autonomous insight synthesis |
-| **Product** | Feature Adoption, TTV, PMF | Level 5: AI-generated roadmap |
-| **Marketing** | CAC, MQL→SQL, ROMI | Level 5: Automated performance intelligence |
-| **Sales** | New ARR, Win Rate, Forecast Accuracy | Level 5: AI-powered forecasting |
-| **Accounts** | NRR, Health Score, Retention | Level 5: Predictive churn/expansion |
-| **Delivery** | On-Time Delivery, Margin, Risk | Level 5: Autonomous portfolio management |
-| **HR** | eNPS, Time to Hire, DEI | Level 5: Predictive workforce intelligence |
-| **IT** | Uptime, MTTR, Security | Level 5: Self-healing systems |
-| **Finance** | Cash Runway, Unit Economics | Level 5: Automated CFO packs |
-
----
-
-## Documentation Navigation
-
-- **[Home](README.md)** ← You are here
-- **[AI Readiness Assessment Framework](AI_Readiness_Assessment_Framework.md)** → Diagnostic & baseline measurement
-- **[Intelligent Agency Maturity Model](Intelligent_Agency_Maturity_Model.md)** → Transformation roadmap
-- **[IntelligentOS KPI Architecture](IntelligentOS_KPI_Architecture.md)** → Measurement system
-
----
-
-## Support & Resources
-
-**Questions?** These frameworks are designed to be self-explanatory, but for implementation support or customization:
-
-- Review the framework documentation thoroughly
-- Consider the sequence: Assess → Map → Measure → Deploy
-- Remember: AI without foundation fails; foundation without AI stagnates
-
----
-
-## Version & Updates
-
-**Current Version**: 1.0  
-**Last Updated**: December 2024  
-**Framework Status**: Production-ready, field-tested
-
-These frameworks represent the distilled wisdom of multiple enterprise transformations, designed to be immediately deployable while remaining adaptable to organizational context.
+- **[Business Canvas - Strategy & AI Readiness](Business_Canvas_Strategy_AI_Readiness.md)**
+- **[Operational Canvas - Transformation & Value Stream Mapping](Operational_Canvas_Transformation_Value_Stream.md)**
+- **[Workflow Prioritization & POC Scoping](Workflow_Prioritization_POC_Scoping.md)**
+- **[Engagement Model & SOW Templates](Engagement_Model_SOW_Templates.md)**
+- **[AI Readiness Assessment Framework](AI_Readiness_Assessment_Framework.md)**
+- **[Intelligent Agency Maturity Model](Intelligent_Agency_Maturity_Model.md)**
+- **[IntelligentOS KPI Architecture](IntelligentOS_KPI_Architecture.md)**
 
 ---
 
 *Built by Intelligent Agency for transforming organizations into AI-native enterprises through systematic, measurable, human-centered change.*
-# ia-frameworks-and-references-md
+

@@ -2,7 +2,7 @@
 
 *A Unified, Data-Driven Measurement System for a Fully AI-Transformed Enterprise*
 
-**[← Home](README.md)** | **[← Assessment Framework](AI_Readiness_Assessment_Framework.md)** | **[← Maturity Model](Intelligent_Agency_Maturity_Model.md)**
+**[← Home](README.md)** | **[← Business Canvas](Business_Canvas_Strategy_AI_Readiness.md)** | **[← Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md)** | **[← Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md)** | **[← Engagement Model](Engagement_Model_SOW_Templates.md)** | **[← Assessment Framework](AI_Readiness_Assessment_Framework.md)** | **[← Maturity Model](Intelligent_Agency_Maturity_Model.md)**
 
 ---
 
@@ -251,8 +251,12 @@ When ready, the following can be generated:
 ## Navigation
 
 - **[← Back to Home](README.md)**
-- **[← Previous: Maturity Model](Intelligent_Agency_Maturity_Model.md)**
+- **[← Business Canvas](Business_Canvas_Strategy_AI_Readiness.md)**
+- **[← Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md)**
+- **[← Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md)**
+- **[← Engagement Model](Engagement_Model_SOW_Templates.md)**
 - **[← Assessment Framework](AI_Readiness_Assessment_Framework.md)**
+- **[← Previous: Maturity Model](Intelligent_Agency_Maturity_Model.md)**
 
 ---
 
