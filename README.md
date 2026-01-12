@@ -18,11 +18,11 @@ This documentation provides the complete framework toolkit for transforming orga
 
 ## The Eight Frameworks
 
-### 1. [Business Canvas - Strategy & AI Readiness](Business_Canvas_Strategy_AI_Readiness.md)
+### 1. [Business Canvas - Strategic Mapping](Business_Canvas_Strategy_AI_Readiness.md)
 
-Collaborative strategic mapping combining VMP, brand, culture, OKRs with AI readiness assessment across data, infrastructure, process maturity, and change capacity.
+Collaborative strategic mapping workshop establishing VMP, brand identity, culture, OKRs, and business model. Creates foundational clarity for transformation initiatives.
 
-**Use when**: Initiating transformation, establishing strategic foundation, aligning AI to business objectives
+**Use when**: Initiating transformation, establishing strategic foundation, aligning leadership on priorities
 
 ---
 
