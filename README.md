@@ -135,16 +135,14 @@ Each phase has explicit go/no-go decision gates.
 
 ## Navigation
 
-- **[Business Canvas - Strategy & AI Readiness](Business_Canvas_Strategy_AI_Readiness.md)**
-- **[Operational Canvas - Transformation & Value Stream Mapping](Operational_Canvas_Transformation_Value_Stream.md)**
-- **[Workflow Prioritization & POC Scoping](Workflow_Prioritization_POC_Scoping.md)**
-- **[Workflow Standards & Templates](Workflow_Standards_Templates.md)**
-- **[Engagement Model & SOW Templates](Engagement_Model_SOW_Templates.md)**
-- **[AI Readiness Assessment Framework](AI_Readiness_Assessment_Framework.md)**
-- **[Intelligent Agency Maturity Model](Intelligent_Agency_Maturity_Model.md)**
-- **[IntelligentOS KPI Architecture](IntelligentOS_KPI_Architecture.md)**
+[Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md) | [Workflow Standards](Workflow_Standards_Templates.md) | [Engagement Model](Engagement_Model_SOW_Templates.md) | [AI Readiness Assessment](AI_Readiness_Assessment_Framework.md) | [Maturity Model](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture](IntelligentOS_KPI_Architecture.md)
 
 ---
 
 *Built by Intelligent Agency for transforming organizations into AI-native enterprises through systematic, measurable, human-centered change.*
 
+---
+
+**Version:** 1.0  
+**Last Updated:** 12 January 2026  
+**© 2026 Intelligent Agency. All Rights Reserved.**

@@ -4,7 +4,7 @@
 
 *A Framework for Assessing and Advancing Organizational AI Readiness*
 
-**[← Home](README.md)** | **[← Business Canvas](Business_Canvas_Strategy_AI_Readiness.md)** | **[← Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md)** | **[← Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md)** | **[← Engagement Model](Engagement_Model_SOW_Templates.md)** | **[← Assessment Framework](AI_Readiness_Assessment_Framework.md)** | **[KPI Architecture →](IntelligentOS_KPI_Architecture.md)**
+**[← Home](README.md) | [← Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [← Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [← Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md) | [← Workflow Standards](Workflow_Standards_Templates.md) | [← Engagement Model](Engagement_Model_SOW_Templates.md) | [← Assessment Framework](AI_Readiness_Assessment_Framework.md) | [KPI Architecture →](IntelligentOS_KPI_Architecture.md)**
 
 ---
 
@@ -370,14 +370,13 @@ The Maturity Model is designed to work seamlessly with:
 
 ## Navigation
 
-- **[← Back to Home](README.md)**
-- **[← Business Canvas](Business_Canvas_Strategy_AI_Readiness.md)**
-- **[← Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md)**
-- **[← Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md)**
-- **[← Engagement Model](Engagement_Model_SOW_Templates.md)**
-- **[← Previous: Assessment Framework](AI_Readiness_Assessment_Framework.md)**
-- **[Next: KPI Architecture →](IntelligentOS_KPI_Architecture.md)**
+[← Back to Home](README.md) | [← Previous: Assessment Framework](AI_Readiness_Assessment_Framework.md) | [Next: KPI Architecture →](IntelligentOS_KPI_Architecture.md) | [Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md) | [Workflow Standards](Workflow_Standards_Templates.md) | [Engagement Model](Engagement_Model_SOW_Templates.md)
 
 ---
 
 *The Intelligent Agency Maturity Model provides the roadmap for systematic advancement toward becoming a truly agentic enterprise.*
+---
+
+**Version:** 1.0  
+**Last Updated:** 12 January 2026  
+**© 2026 Intelligent Agency. All Rights Reserved.**

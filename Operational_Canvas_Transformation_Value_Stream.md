@@ -4,7 +4,7 @@
 
 *End-to-End Value Stream Analysis and Execution Gap Quantification*
 
-**[← Home](README.md)** | **[← Business Canvas](Business_Canvas_Strategy_AI_Readiness.md)** | **[Workflow Prioritization →](Workflow_Prioritization_POC_Scoping.md)** | **[Engagement Model →](Engagement_Model_SOW_Templates.md)** | **[Assessment Framework →](AI_Readiness_Assessment_Framework.md)** | **[Maturity Model →](Intelligent_Agency_Maturity_Model.md)** | **[KPI Architecture →](IntelligentOS_KPI_Architecture.md)**
+**[← Home](README.md) | [← Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [Workflow Prioritization →](Workflow_Prioritization_POC_Scoping.md) | [Workflow Standards →](Workflow_Standards_Templates.md) | [Engagement Model →](Engagement_Model_SOW_Templates.md) | [Assessment Framework →](AI_Readiness_Assessment_Framework.md) | [Maturity Model →](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture →](IntelligentOS_KPI_Architecture.md)**
 
 ---
 
@@ -773,14 +773,13 @@ The Operational Canvas bridges strategy and execution:
 
 ## Navigation
 
-- **[← Back to Home](README.md)**
-- **[← Previous: Business Canvas](Business_Canvas_Strategy_AI_Readiness.md)**
-- **[Next: Workflow Prioritization & POC Scoping →](Workflow_Prioritization_POC_Scoping.md)**
-- **[Engagement Model →](Engagement_Model_SOW_Templates.md)**
-- **[AI Readiness Assessment Framework →](AI_Readiness_Assessment_Framework.md)**
-- **[Maturity Model →](Intelligent_Agency_Maturity_Model.md)**
-- **[KPI Architecture →](IntelligentOS_KPI_Architecture.md)**
+[← Back to Home](README.md) | [← Previous: Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [Next: Workflow Prioritization →](Workflow_Prioritization_POC_Scoping.md) | [Workflow Standards →](Workflow_Standards_Templates.md) | [Engagement Model →](Engagement_Model_SOW_Templates.md) | [Assessment Framework →](AI_Readiness_Assessment_Framework.md) | [Maturity Model →](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture →](IntelligentOS_KPI_Architecture.md)
 
 ---
 
 *The Operational Canvas translates strategic intent into operational execution, revealing where value is created, where it's lost, and what transformation delivers the greatest business impact.*
+---
+
+**Version:** 1.0  
+**Last Updated:** 12 January 2026  
+**© 2026 Intelligent Agency. All Rights Reserved.**

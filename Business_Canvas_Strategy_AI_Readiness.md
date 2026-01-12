@@ -4,7 +4,7 @@
 
 *Integrated Strategic Mapping and AI Capability Assessment*
 
-**[← Home](README.md)** | **[Operational Canvas →](Operational_Canvas_Transformation_Value_Stream.md)** | **[Workflow Prioritization →](Workflow_Prioritization_POC_Scoping.md)** | **[Engagement Model →](Engagement_Model_SOW_Templates.md)** | **[Assessment Framework →](AI_Readiness_Assessment_Framework.md)** | **[Maturity Model →](Intelligent_Agency_Maturity_Model.md)** | **[KPI Architecture →](IntelligentOS_KPI_Architecture.md)**
+**[← Home](README.md) | [Operational Canvas →](Operational_Canvas_Transformation_Value_Stream.md) | [Workflow Prioritization →](Workflow_Prioritization_POC_Scoping.md) | [Workflow Standards →](Workflow_Standards_Templates.md) | [Engagement Model →](Engagement_Model_SOW_Templates.md) | [Assessment Framework →](AI_Readiness_Assessment_Framework.md) | [Maturity Model →](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture →](IntelligentOS_KPI_Architecture.md)**
 
 ---
 
@@ -478,14 +478,13 @@ The Business Canvas serves as the foundation for all subsequent frameworks:
 
 ## Navigation
 
-- **[← Back to Home](README.md)**
-- **[Next: Operational Canvas →](Operational_Canvas_Transformation_Value_Stream.md)**
-- **[Workflow Prioritization →](Workflow_Prioritization_POC_Scoping.md)**
-- **[Engagement Model →](Engagement_Model_SOW_Templates.md)**
-- **[AI Readiness Assessment Framework →](AI_Readiness_Assessment_Framework.md)**
-- **[Maturity Model →](Intelligent_Agency_Maturity_Model.md)**
-- **[KPI Architecture →](IntelligentOS_KPI_Architecture.md)**
+[← Back to Home](README.md) | [Next: Operational Canvas →](Operational_Canvas_Transformation_Value_Stream.md) | [Workflow Prioritization →](Workflow_Prioritization_POC_Scoping.md) | [Workflow Standards →](Workflow_Standards_Templates.md) | [Engagement Model →](Engagement_Model_SOW_Templates.md) | [Assessment Framework →](AI_Readiness_Assessment_Framework.md) | [Maturity Model →](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture →](IntelligentOS_KPI_Architecture.md)
 
 ---
 
 *The Business Canvas ensures AI transformation begins with strategic clarity, cultural readiness, and honest capability assessment—the foundation for sustainable, high-impact change.*
+---
+
+**Version:** 1.0  
+**Last Updated:** 12 January 2026  
+**© 2026 Intelligent Agency. All Rights Reserved.**

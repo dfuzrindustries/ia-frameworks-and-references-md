@@ -4,7 +4,7 @@
 
 *Systematic Selection and Design of High-Impact Proof of Concept Initiatives*
 
-**[← Home](README.md)** | **[← Business Canvas](Business_Canvas_Strategy_AI_Readiness.md)** | **[← Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md)** | **[Engagement Model →](Engagement_Model_SOW_Templates.md)** | **[Assessment Framework →](AI_Readiness_Assessment_Framework.md)** | **[Maturity Model →](Intelligent_Agency_Maturity_Model.md)** | **[KPI Architecture →](IntelligentOS_KPI_Architecture.md)**
+**[← Home](README.md) | [← Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [← Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [Workflow Standards →](Workflow_Standards_Templates.md) | [Engagement Model →](Engagement_Model_SOW_Templates.md) | [Assessment Framework →](AI_Readiness_Assessment_Framework.md) | [Maturity Model →](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture →](IntelligentOS_KPI_Architecture.md)**
 
 ---
 
@@ -843,14 +843,13 @@ This Workflow Prioritization & POC Scoping process succeeds when:
 
 ## Navigation
 
-- **[← Back to Home](README.md)**
-- **[← Previous: Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md)**
-- **[Next: Engagement Model & SOW Templates →](Engagement_Model_SOW_Templates.md)**
-- **[Business Canvas →](Business_Canvas_Strategy_AI_Readiness.md)**
-- **[AI Readiness Assessment Framework →](AI_Readiness_Assessment_Framework.md)**
-- **[Maturity Model →](Intelligent_Agency_Maturity_Model.md)**
-- **[KPI Architecture →](IntelligentOS_KPI_Architecture.md)**
+[← Back to Home](README.md) | [← Previous: Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [Next: Workflow Standards →](Workflow_Standards_Templates.md) | [Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [Engagement Model →](Engagement_Model_SOW_Templates.md) | [Assessment Framework →](AI_Readiness_Assessment_Framework.md) | [Maturity Model →](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture →](IntelligentOS_KPI_Architecture.md)
 
 ---
 
 *Workflow Prioritization & POC Scoping transforms analysis into action, ensuring transformation investments deliver measurable business impact while building organizational momentum and capability.*
+---
+
+**Version:** 1.0  
+**Last Updated:** 12 January 2026  
+**© 2026 Intelligent Agency. All Rights Reserved.**

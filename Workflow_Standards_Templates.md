@@ -4,7 +4,7 @@
 
 *Internal Standards for Workflow Definition, Design, and Measurement*
 
-**[← Home](README.md)** | **[Business Canvas →](Business_Canvas_Strategy_AI_Readiness.md)** | **[Operational Canvas →](Operational_Canvas_Transformation_Value_Stream.md)** | **[Workflow Prioritization →](Workflow_Prioritization_POC_Scoping.md)**
+**[← Home](README.md) | [← Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [← Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [← Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md) | [Engagement Model →](Engagement_Model_SOW_Templates.md) | [Assessment Framework →](AI_Readiness_Assessment_Framework.md) | [Maturity Model →](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture →](IntelligentOS_KPI_Architecture.md)**
 
 ---
 
@@ -728,12 +728,13 @@ These standards are living documents and should be updated based on:
 
 ## Navigation
 
-- **[← Back to Home](README.md)**
-- **[Business Canvas →](Business_Canvas_Strategy_AI_Readiness.md)**
-- **[Operational Canvas →](Operational_Canvas_Transformation_Value_Stream.md)**
-- **[Workflow Prioritization →](Workflow_Prioritization_POC_Scoping.md)**
-- **[Engagement Model →](Engagement_Model_SOW_Templates.md)**
+[← Back to Home](README.md) | [← Previous: Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md) | [Next: Engagement Model →](Engagement_Model_SOW_Templates.md) | [Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [Assessment Framework →](AI_Readiness_Assessment_Framework.md) | [Maturity Model →](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture →](IntelligentOS_KPI_Architecture.md)
 
 ---
 
 *These Workflow Standards ensure Intelligent Agency delivers consistently rigorous, economically justified, and system-aware workflows across all client engagements and product development initiatives.*
+---
+
+**Version:** 1.0  
+**Last Updated:** 12 January 2026  
+**© 2026 Intelligent Agency. All Rights Reserved.**

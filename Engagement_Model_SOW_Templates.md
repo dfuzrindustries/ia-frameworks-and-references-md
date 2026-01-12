@@ -4,7 +4,7 @@
 
 *Structured Phases from Discovery to Enterprise Transformation*
 
-**[← Home](README.md)** | **[← Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md)** | **[Assessment Framework →](AI_Readiness_Assessment_Framework.md)** | **[Maturity Model →](Intelligent_Agency_Maturity_Model.md)**
+**[← Home](README.md) | [← Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [← Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [← Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md) | [← Workflow Standards](Workflow_Standards_Templates.md) | [Assessment Framework →](AI_Readiness_Assessment_Framework.md) | [Maturity Model →](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture →](IntelligentOS_KPI_Architecture.md)**
 
 ---
 
@@ -1223,14 +1223,13 @@ The engagement model connects directly to all frameworks:
 
 ## Navigation
 
-- **[← Back to Home](README.md)**
-- **[← Previous: Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md)**
-- **[Next: AI Readiness Assessment Framework →](AI_Readiness_Assessment_Framework.md)**
-- **[Business Canvas →](Business_Canvas_Strategy_AI_Readiness.md)**
-- **[Operational Canvas →](Operational_Canvas_Transformation_Value_Stream.md)**
-- **[Maturity Model →](Intelligent_Agency_Maturity_Model.md)**
-- **[KPI Architecture →](IntelligentOS_KPI_Architecture.md)**
+[← Back to Home](README.md) | [← Previous: Workflow Standards](Workflow_Standards_Templates.md) | [Next: Assessment Framework →](AI_Readiness_Assessment_Framework.md) | [Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md) | [Maturity Model →](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture →](IntelligentOS_KPI_Architecture.md)
 
 ---
 
 *The Engagement Model provides a disciplined, gated progression from discovery to transformation, with clear decision points, measurable outcomes, and production-ready SOW templates for each phase.*
+---
+
+**Version:** 1.0  
+**Last Updated:** 12 January 2026  
+**© 2026 Intelligent Agency. All Rights Reserved.**
