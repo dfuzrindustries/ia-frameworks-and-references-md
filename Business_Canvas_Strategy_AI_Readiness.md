@@ -1,3 +1,5 @@
+<!-- PAGE_TITLE: Business Canvas -->
+<!-- BREADCRUMB: Intelligent Agency Frameworks > Business Canvas -->
 # BUSINESS CANVAS - STRATEGY & AI READINESS
 
 *Integrated Strategic Mapping and AI Capability Assessment*

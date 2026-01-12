@@ -1,3 +1,5 @@
+<!-- PAGE_TITLE: Home -->
+<!-- BREADCRUMB: Intelligent Agency Frameworks -->
 # Intelligent Agency Framework Documentation
 
 *Reference materials for implementing the IntelligentOS operating model*
@@ -14,7 +16,7 @@ This documentation provides the complete framework toolkit for transforming orga
 
 ---
 
-## The Seven Frameworks
+## The Eight Frameworks
 
 ### 1. [Business Canvas - Strategy & AI Readiness](Business_Canvas_Strategy_AI_Readiness.md)
 
@@ -40,7 +42,15 @@ Systematic selection and design of high-impact proof of concept initiatives usin
 
 ---
 
-### 4. [Engagement Model & SOW Templates](Engagement_Model_SOW_Templates.md)
+### 4. [Workflow Standards & Templates](Workflow_Standards_Templates.md)
+
+Internal standards defining what qualifies as a workflow, step-by-step practitioner playbook, and system mapping template for ensuring rigorous workflow delivery.
+
+**Use when**: Qualifying workflow candidates, documenting workflows, ensuring economic rigor and system-level thinking
+
+---
+
+### 5. [Engagement Model & SOW Templates](Engagement_Model_SOW_Templates.md)
 
 Four-phase engagement progression (POV → POC → Pilot → Program) with gated decision points and production-ready Statement of Work templates for each phase.
 
@@ -48,7 +58,7 @@ Four-phase engagement progression (POV → POC → Pilot → Program) with gated
 
 ---
 
-### 5. [AI Readiness Assessment Framework](AI_Readiness_Assessment_Framework.md)
+### 6. [AI Readiness Assessment Framework](AI_Readiness_Assessment_Framework.md)
 
 Comprehensive diagnostic evaluating organizational readiness across 8 dimensions, designed to establish baseline and populate IOS Config workbook.
 
@@ -56,7 +66,7 @@ Comprehensive diagnostic evaluating organizational readiness across 8 dimensions
 
 ---
 
-### 6. [Intelligent Agency Maturity Model](Intelligent_Agency_Maturity_Model.md)
+### 7. [Intelligent Agency Maturity Model](Intelligent_Agency_Maturity_Model.md)
 
 Five-level maturity framework assessing 9 core functions from ad-hoc operations to autonomous AI-powered systems.
 
@@ -64,7 +74,7 @@ Five-level maturity framework assessing 9 core functions from ad-hoc operations 
 
 ---
 
-### 7. [IntelligentOS KPI Architecture](IntelligentOS_KPI_Architecture.md)
+### 8. [IntelligentOS KPI Architecture](IntelligentOS_KPI_Architecture.md)
 
 Unified measurement system connecting strategy → execution → operations through hierarchical KPI structures.
 
@@ -128,6 +138,7 @@ Each phase has explicit go/no-go decision gates.
 - **[Business Canvas - Strategy & AI Readiness](Business_Canvas_Strategy_AI_Readiness.md)**
 - **[Operational Canvas - Transformation & Value Stream Mapping](Operational_Canvas_Transformation_Value_Stream.md)**
 - **[Workflow Prioritization & POC Scoping](Workflow_Prioritization_POC_Scoping.md)**
+- **[Workflow Standards & Templates](Workflow_Standards_Templates.md)**
 - **[Engagement Model & SOW Templates](Engagement_Model_SOW_Templates.md)**
 - **[AI Readiness Assessment Framework](AI_Readiness_Assessment_Framework.md)**
 - **[Intelligent Agency Maturity Model](Intelligent_Agency_Maturity_Model.md)**

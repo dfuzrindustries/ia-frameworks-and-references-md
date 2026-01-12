@@ -1,3 +1,5 @@
+<!-- PAGE_TITLE: Operational Canvas -->
+<!-- BREADCRUMB: Intelligent Agency Frameworks > Operational Canvas -->
 # OPERATIONAL CANVAS - TRANSFORMATION & VALUE STREAM MAPPING
 
 *End-to-End Value Stream Analysis and Execution Gap Quantification*

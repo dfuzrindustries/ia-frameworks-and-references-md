@@ -1,3 +1,5 @@
+<!-- PAGE_TITLE: AI Readiness Assessment -->
+<!-- BREADCRUMB: Intelligent Agency Frameworks > AI Readiness Assessment -->
 # AI READINESS ASSESSMENT FRAMEWORK
 
 *Aligned to the IntelligentOS Success Model*

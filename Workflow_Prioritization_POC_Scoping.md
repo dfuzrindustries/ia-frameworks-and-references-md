@@ -1,3 +1,5 @@
+<!-- PAGE_TITLE: Workflow Prioritization -->
+<!-- BREADCRUMB: Intelligent Agency Frameworks > Workflow Prioritization -->
 # WORKFLOW PRIORITIZATION & POC SCOPING
 
 *Systematic Selection and Design of High-Impact Proof of Concept Initiatives*

@@ -1,3 +1,5 @@
+<!-- PAGE_TITLE: KPI Architecture -->
+<!-- BREADCRUMB: Intelligent Agency Frameworks > KPI Architecture -->
 # INTELLIGENTOS KPI ARCHITECTURE
 
 *A Unified, Data-Driven Measurement System for a Fully AI-Transformed Enterprise*
