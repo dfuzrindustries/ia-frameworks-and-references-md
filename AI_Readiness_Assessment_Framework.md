@@ -4,7 +4,7 @@
 
 *Aligned to the IntelligentOS Success Model*
 
-**[← Home](README.md) | [← Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [← Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [← Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md) | [← Workflow Standards](Workflow_Standards_Templates.md) | [← Engagement Model](Engagement_Model_SOW_Templates.md) | [Maturity Model →](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture →](IntelligentOS_KPI_Architecture.md)**
+**[← Home](README.md) | [← Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [← Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [← Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md) | [← Workflow Standards](Workflow_Standards_Templates.md) | [← IntelligentOS Engagement Model](IntelligentOS_Engagement_Model.md) | [Maturity Model →](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture →](IntelligentOS_KPI_Architecture.md)**
 
 ---
 
@@ -311,7 +311,7 @@ After completing the assessment:
 
 ## Navigation
 
-[← Back to Home](README.md) | [← Previous: Engagement Model](Engagement_Model_SOW_Templates.md) | [Next: Maturity Model →](Intelligent_Agency_Maturity_Model.md) | [Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md) | [Workflow Standards](Workflow_Standards_Templates.md) | [KPI Architecture →](IntelligentOS_KPI_Architecture.md)
+[← Back to Home](README.md) | [← Previous: IntelligentOS Engagement Model](IntelligentOS_Engagement_Model.md) | [Next: Maturity Model →](Intelligent_Agency_Maturity_Model.md) | [Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md) | [Workflow Standards](Workflow_Standards_Templates.md) | [KPI Architecture](IntelligentOS_KPI_Architecture.md)
 
 ---
 

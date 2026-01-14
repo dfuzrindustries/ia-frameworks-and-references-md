@@ -16,7 +16,7 @@ This documentation provides the complete framework toolkit for transforming orga
 
 ---
 
-## The Nine Frameworks
+## The Eight Frameworks
 
 ### 1. [Business Canvas - Strategic Mapping](Business_Canvas_Strategy_AI_Readiness.md)
 
@@ -58,15 +58,7 @@ Three-view framework (Business, Operating, Agentic Platform) aligned to 8-layer 
 
 ---
 
-### 6. [Engagement Model & SOW Templates](Engagement_Model_SOW_Templates.md)
-
-Four-phase engagement progression (POV → POC → Pilot → Program) with gated decision points and production-ready Statement of Work templates for each phase.
-
-**Use when**: Structuring client engagements, scoping phases, creating SOWs, managing progression decisions
-
----
-
-### 7. [AI Readiness Assessment Framework](AI_Readiness_Assessment_Framework.md)
+### 6. [AI Readiness Assessment Framework](AI_Readiness_Assessment_Framework.md)
 
 Comprehensive diagnostic evaluating organizational readiness across 8 dimensions, designed to establish baseline and populate IOS Config workbook.
 
@@ -74,7 +66,7 @@ Comprehensive diagnostic evaluating organizational readiness across 8 dimensions
 
 ---
 
-### 8. [Intelligent Agency Maturity Model](Intelligent_Agency_Maturity_Model.md)
+### 7. [Intelligent Agency Maturity Model](Intelligent_Agency_Maturity_Model.md)
 
 Five-level maturity framework assessing 9 core functions from ad-hoc operations to autonomous AI-powered systems.
 
@@ -82,7 +74,7 @@ Five-level maturity framework assessing 9 core functions from ad-hoc operations 
 
 ---
 
-### 9. [IntelligentOS KPI Architecture](IntelligentOS_KPI_Architecture.md)
+### 8. [IntelligentOS KPI Architecture](IntelligentOS_KPI_Architecture.md)
 
 Unified measurement system connecting strategy → execution → operations through hierarchical KPI structures.
 
@@ -143,7 +135,7 @@ Each phase has explicit go/no-go decision gates.
 
 ## Navigation
 
-[Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md) | [Workflow Standards](Workflow_Standards_Templates.md) | [IntelligentOS Engagement Model](IntelligentOS_Engagement_Model.md) | [Engagement Model (SOWs)](Engagement_Model_SOW_Templates.md) | [AI Readiness Assessment](AI_Readiness_Assessment_Framework.md) | [Maturity Model](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture](IntelligentOS_KPI_Architecture.md)
+[Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md) | [Workflow Standards](Workflow_Standards_Templates.md) | [IntelligentOS Engagement Model](IntelligentOS_Engagement_Model.md) | [AI Readiness Assessment](AI_Readiness_Assessment_Framework.md) | [Maturity Model](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture](IntelligentOS_KPI_Architecture.md)
 
 ---
 

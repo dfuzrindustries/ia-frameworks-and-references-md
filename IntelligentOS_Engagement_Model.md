@@ -4,7 +4,7 @@
 
 *Three Views, One Architecture: How Business, Operating, and Platform Models Work Together*
 
-**[← Home](README.md) | [← Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [← Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [← Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md) | [← Workflow Standards](Workflow_Standards_Templates.md) | [Engagement Model →](Engagement_Model_SOW_Templates.md) | [Assessment Framework →](AI_Readiness_Assessment_Framework.md) | [Maturity Model →](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture →](IntelligentOS_KPI_Architecture.md)**
+**[← Home](README.md) | [← Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [← Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [← Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md) | [← Workflow Standards](Workflow_Standards_Templates.md) | [Assessment Framework →](AI_Readiness_Assessment_Framework.md) | [Maturity Model →](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture →](IntelligentOS_KPI_Architecture.md)**
 
 ---
 
@@ -403,8 +403,6 @@ This engagement model connects to our framework documentation:
 
 **← Workflow Standards**: Defines workflow qualification and documentation standards for Operating Model
 
-**→ Engagement Model (SOWs)**: Defines phased engagement progression (POV → POC → Pilot → Program)
-
 **→ AI Readiness Assessment**: Part of Discovery Methodology Phase 0 (Current State Assessment)
 
 **→ Maturity Model**: Tracks progression across all 8 architectural layers
@@ -415,7 +413,7 @@ This engagement model connects to our framework documentation:
 
 ## Navigation
 
-[← Back to Home](README.md) | [← Previous: Workflow Standards](Workflow_Standards_Templates.md) | [Next: Engagement Model (SOWs) →](Engagement_Model_SOW_Templates.md) | [Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md) | [Assessment Framework](AI_Readiness_Assessment_Framework.md) | [Maturity Model](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture](IntelligentOS_KPI_Architecture.md)
+[← Back to Home](README.md) | [← Previous: Workflow Standards](Workflow_Standards_Templates.md) | [Next: Assessment Framework →](AI_Readiness_Assessment_Framework.md) | [Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md) | [Maturity Model](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture](IntelligentOS_KPI_Architecture.md)
 
 ---
 
