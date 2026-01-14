@@ -4,7 +4,7 @@
 
 *Internal Standards for Workflow Definition, Design, and Measurement*
 
-**[← Home](README.md) | [← Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [← Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [← Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md) | [Engagement Model →](Engagement_Model_SOW_Templates.md) | [Assessment Framework →](AI_Readiness_Assessment_Framework.md) | [Maturity Model →](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture →](IntelligentOS_KPI_Architecture.md)**
+**[← Home](README.md) | [← Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [← Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [← Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md) | [IntelligentOS Engagement Model →](IntelligentOS_Engagement_Model.md) | [Engagement Model (SOWs) →](Engagement_Model_SOW_Templates.md) | [Assessment Framework →](AI_Readiness_Assessment_Framework.md) | [Maturity Model →](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture →](IntelligentOS_KPI_Architecture.md)**
 
 ---
 
@@ -728,7 +728,7 @@ These standards are living documents and should be updated based on:
 
 ## Navigation
 
-[← Back to Home](README.md) | [← Previous: Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md) | [Next: Engagement Model →](Engagement_Model_SOW_Templates.md) | [Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [Assessment Framework →](AI_Readiness_Assessment_Framework.md) | [Maturity Model →](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture →](IntelligentOS_KPI_Architecture.md)
+[← Back to Home](README.md) | [← Previous: Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md) | [Next: IntelligentOS Engagement Model →](IntelligentOS_Engagement_Model.md) | [Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [Engagement Model (SOWs)](Engagement_Model_SOW_Templates.md) | [Assessment Framework →](AI_Readiness_Assessment_Framework.md) | [Maturity Model →](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture →](IntelligentOS_KPI_Architecture.md)
 
 ---
 

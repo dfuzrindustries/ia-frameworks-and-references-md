@@ -16,7 +16,7 @@ This documentation provides the complete framework toolkit for transforming orga
 
 ---
 
-## The Eight Frameworks
+## The Nine Frameworks
 
 ### 1. [Business Canvas - Strategic Mapping](Business_Canvas_Strategy_AI_Readiness.md)
 
@@ -50,7 +50,15 @@ Internal standards defining what qualifies as a workflow, step-by-step practitio
 
 ---
 
-### 5. [Engagement Model & SOW Templates](Engagement_Model_SOW_Templates.md)
+### 5. [IntelligentOS Engagement Model](IntelligentOS_Engagement_Model.md)
+
+Three-view framework (Business, Operating, Agentic Platform) aligned to 8-layer architectural stack. Defines how strategic, operational, and technical perspectives work together with Discovery Methodology.
+
+**Use when**: Planning engagements, aligning cross-functional teams, structuring delivery approach
+
+---
+
+### 6. [Engagement Model & SOW Templates](Engagement_Model_SOW_Templates.md)
 
 Four-phase engagement progression (POV → POC → Pilot → Program) with gated decision points and production-ready Statement of Work templates for each phase.
 
@@ -58,7 +66,7 @@ Four-phase engagement progression (POV → POC → Pilot → Program) with gated
 
 ---
 
-### 6. [AI Readiness Assessment Framework](AI_Readiness_Assessment_Framework.md)
+### 7. [AI Readiness Assessment Framework](AI_Readiness_Assessment_Framework.md)
 
 Comprehensive diagnostic evaluating organizational readiness across 8 dimensions, designed to establish baseline and populate IOS Config workbook.
 
@@ -66,7 +74,7 @@ Comprehensive diagnostic evaluating organizational readiness across 8 dimensions
 
 ---
 
-### 7. [Intelligent Agency Maturity Model](Intelligent_Agency_Maturity_Model.md)
+### 8. [Intelligent Agency Maturity Model](Intelligent_Agency_Maturity_Model.md)
 
 Five-level maturity framework assessing 9 core functions from ad-hoc operations to autonomous AI-powered systems.
 
@@ -74,7 +82,7 @@ Five-level maturity framework assessing 9 core functions from ad-hoc operations 
 
 ---
 
-### 8. [IntelligentOS KPI Architecture](IntelligentOS_KPI_Architecture.md)
+### 9. [IntelligentOS KPI Architecture](IntelligentOS_KPI_Architecture.md)
 
 Unified measurement system connecting strategy → execution → operations through hierarchical KPI structures.
 
@@ -135,7 +143,7 @@ Each phase has explicit go/no-go decision gates.
 
 ## Navigation
 
-[Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md) | [Workflow Standards](Workflow_Standards_Templates.md) | [Engagement Model](Engagement_Model_SOW_Templates.md) | [AI Readiness Assessment](AI_Readiness_Assessment_Framework.md) | [Maturity Model](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture](IntelligentOS_KPI_Architecture.md)
+[Business Canvas](Business_Canvas_Strategy_AI_Readiness.md) | [Operational Canvas](Operational_Canvas_Transformation_Value_Stream.md) | [Workflow Prioritization](Workflow_Prioritization_POC_Scoping.md) | [Workflow Standards](Workflow_Standards_Templates.md) | [IntelligentOS Engagement Model](IntelligentOS_Engagement_Model.md) | [Engagement Model (SOWs)](Engagement_Model_SOW_Templates.md) | [AI Readiness Assessment](AI_Readiness_Assessment_Framework.md) | [Maturity Model](Intelligent_Agency_Maturity_Model.md) | [KPI Architecture](IntelligentOS_KPI_Architecture.md)
 
 ---
 
